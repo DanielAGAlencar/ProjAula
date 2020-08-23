@@ -1,0 +1,12 @@
+C:\Users\DANIEL2-GVM\source\repos\ProjAula\Dados\bin\Debug\Dados.dll
+C:\Users\DANIEL2-GVM\source\repos\ProjAula\Dados\bin\Debug\Dados.pdb
+C:\Users\DANIEL2-GVM\source\repos\ProjAula\Dados\bin\Debug\Model.dll
+C:\Users\DANIEL2-GVM\source\repos\ProjAula\Dados\bin\Debug\System.Data.SQLite.dll
+C:\Users\DANIEL2-GVM\source\repos\ProjAula\Dados\bin\Debug\Model.pdb
+C:\Users\DANIEL2-GVM\source\repos\ProjAula\Dados\bin\Debug\System.Data.SQLite.xml
+C:\Users\DANIEL2-GVM\source\repos\ProjAula\Dados\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\DANIEL2-GVM\source\repos\ProjAula\Dados\obj\Debug\Dados.csprojAssemblyReference.cache
+C:\Users\DANIEL2-GVM\source\repos\ProjAula\Dados\obj\Debug\Dados.csproj.CoreCompileInputs.cache
+C:\Users\DANIEL2-GVM\source\repos\ProjAula\Dados\obj\Debug\Dados.csproj.CopyComplete
+C:\Users\DANIEL2-GVM\source\repos\ProjAula\Dados\obj\Debug\Dados.dll
+C:\Users\DANIEL2-GVM\source\repos\ProjAula\Dados\obj\Debug\Dados.pdb

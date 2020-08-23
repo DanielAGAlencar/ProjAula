@@ -1,0 +1,10 @@
+C:\Users\DANIEL2-GVM\source\repos\ProjAula\Model\bin\Debug\Model.dll
+C:\Users\DANIEL2-GVM\source\repos\ProjAula\Model\bin\Debug\Model.pdb
+C:\Users\DANIEL2-GVM\source\repos\ProjAula\Model\bin\Debug\System.Data.SQLite.dll
+C:\Users\DANIEL2-GVM\source\repos\ProjAula\Model\bin\Debug\System.Data.SQLite.xml
+C:\Users\DANIEL2-GVM\source\repos\ProjAula\Model\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\DANIEL2-GVM\source\repos\ProjAula\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\DANIEL2-GVM\source\repos\ProjAula\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\DANIEL2-GVM\source\repos\ProjAula\Model\obj\Debug\Model.dll
+C:\Users\DANIEL2-GVM\source\repos\ProjAula\Model\obj\Debug\Model.pdb
+C:\Users\DANIEL2-GVM\source\repos\ProjAula\Model\obj\Debug\Model.csprojAssemblyReference.cache
